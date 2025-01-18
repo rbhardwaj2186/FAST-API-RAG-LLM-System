@@ -61,5 +61,5 @@ The application can be deployed using Docker and AWS or GCP for scalability.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone [https://github.com/your-username/your-repo.git](https://github.com/rbhardwaj2186/FAST-API-RAG-LLM-System.git )
    cd your-repo
