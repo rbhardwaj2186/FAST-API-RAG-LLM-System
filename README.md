@@ -1,4 +1,6 @@
 # FastAPI RAG-Based Semantic Search System
+![1_1_TSOXAZp7y32J19hkyyOw](https://github.com/user-attachments/assets/1ad9e65c-dfb8-4f1c-85b1-74e8dccac9f6)
+
 
 ## Overview
 This project implements a Retrieval-Augmented Generation (RAG) system using **FastAPI**, **Qdrant**, and **DistilBERT** for semantic search and retrieval of relevant document snippets. It is designed to handle large-scale document embeddings and enable efficient search functionalities with business impact.
