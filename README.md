@@ -2,6 +2,16 @@
 ![1_1_TSOXAZp7y32J19hkyyOw](https://github.com/user-attachments/assets/1ad9e65c-dfb8-4f1c-85b1-74e8dccac9f6)
 
 
+
+
+
+https://github.com/user-attachments/assets/dc5cc55b-083e-45fc-9788-
+
+https://github.com/user-attachments/assets/81d40f9e-e347-4778-a77a-16832a45d5ae
+
+bfe16664718c
+
+
 ## Overview
 This project implements a Retrieval-Augmented Generation (RAG) system using **FastAPI**, **Qdrant**, and **DistilBERT** for semantic search and retrieval of relevant document snippets. It is designed to handle large-scale document embeddings and enable efficient search functionalities with business impact.
 
